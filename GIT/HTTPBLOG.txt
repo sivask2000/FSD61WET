@@ -1,0 +1,8 @@
+Difference between HTTP1.1 vs HTTP2
+
+HTTP/1.1, a widely used protocol, processes requests sequentially, limiting performance due to its text-based nature and
+lack of multiplexing. HTTP/2, a binary protocol, introduces multiplexing, allowing multiple requests and responses to be
+processed in parallel over a single connection. It compresses headers, reducing overhead, and supports server push, 
+improving load times by sending assets preemptively. These enhancements lead to faster page loads, reduced latency, 
+and more efficient use of network resources compared to HTTP/1.1. Overall, HTTP/2 significantly improves web performance 
+and is designed to better handle the demands of modern web applications and content-rich websites.

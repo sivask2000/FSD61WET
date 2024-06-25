@@ -1,0 +1,8 @@
+Blog about objects and its internal representation in Javascript
+
+In JavaScript, objects are fundamental data structures used to store collections of key-value pairs. 
+Internally, they are represented as dictionaries, where each property name (key) is hashed for quick lookup. 
+Values can be of any data type, including other objects, functions, or primitives. Objects can dynamically add or
+remove properties, making them versatile for data manipulation and structuring. Memory management is handled automatically 
+through garbage collection. Understanding how objects are internally represented helps developers optimize performance and 
+design efficient data structures in JavaScript applications, enhancing overall functionality and scalability.
