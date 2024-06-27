@@ -1,0 +1,5 @@
+In JavaScript, a document object represents the HTML document loaded in the browser window. 
+It allows manipulation of elements and content within the webpage.A window object represents the browser window 
+that contains the document. It provides properties and methods to control the browser itself, including navigation,
+resizing, and opening/closing tabs.In essence, the document object deals with the content and structure of a single webpage,
+while the window object manages the browser environment and interactions between multiple webpages.
